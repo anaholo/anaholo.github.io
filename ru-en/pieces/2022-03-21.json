@@ -13,7 +13,7 @@
             {"or":"разделась", "tr":"undressed", "freq": 8717, "aligned": true},
             {"or":",", "tr":"", "freq": 0, "aligned": false},
             {"or":"обнаженная", "tr":"naked", "freq": 2611, "aligned": true},
-            {"or":",", "tr":"For", "freq": 0, "aligned": false},
+            {"or":",", "tr":"", "freq": 0, "aligned": false},
             {"or":"выбрала", "tr":"selected", "freq": 1454, "aligned": true},
             {"or":"ярко-красное", "tr":"", "freq": 0, "aligned": false},
             {"or":"белье", "tr":"negligee", "freq": 17093, "aligned": true},
