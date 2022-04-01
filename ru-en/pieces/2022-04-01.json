@@ -3,175 +3,175 @@
   "lang": "ru-en",
   "text": [
     [
-      {
-        "or": "Она",
-        "eng": "She",
-        "eng-freq": 32,
-        "esp": null,
-        "esp-freq": null,
-        "aligned": true
-      },
-      {
-        "or": "медленно",
-        "eng": "slowly",
-        "eng-freq": 861,
-        "esp": "lentamente",
-        "esp-freq": 2500,
-        "aligned": true
-      },
-      {
-        "or": ",",
-        "eng": null,
-        "eng-freq": null,
-        "esp": null,
-        "esp-freq": null,
-        "aligned": true
-      },
-      {
-        "or": "как во сне",
-        "eng": "dreamily",
-        "eng-freq": 10000,
-        "esp": null,
-        "esp-freq": null,
-        "aligned": true
-      },
-      {
-        "or": ",",
-        "eng": null,
-        "eng-freq": null,
-        "esp": null,
-        "esp-freq": null,
-        "aligned": true
-      },
-      {
-        "or": "разделась",
-        "eng": "undressed",
-        "eng-freq": 12233,
-        "esp": "se desvistió",
-        "esp-freq": 47000,
-        "aligned": true
-      },
-      {
-        "or": ",",
-        "eng": null,
-        "eng-freq": null,
-        "esp": null,
-        "esp-freq": null,
-        "aligned": true
-      },
-      {
-        "or": "обнаженная",
-        "eng": "naked",
-        "eng-freq": 2918,
-        "esp": null,
-        "esp-freq": null,
-        "aligned": true
-      },
-      {
-        "or": ",",
-        "eng": null,
-        "eng-freq": null,
-        "esp": null,
-        "esp-freq": null,
-        "aligned": true
-      },
-      {
-        "or": "выбрала",
-        "eng": "selected",
-        "eng-freq": 4994,
-        "esp": "eligió",
-        "esp-freq": 2443,
-        "aligned": true
-      },
-      {
-        "or": "ярко-красное",
-        "eng": "bright red",
-        "eng-freq": 571,
-        "esp": "rojo intenso",
-        "esp-freq": 1500,
-        "aligned": true
-      },
-      {
-        "or": "белье",
-        "eng": "negligee",
-        "eng-freq": 23287,
-        "esp": null,
-        "esp-freq": null,
-        "aligned": true
-      },
-      {
-        "or": "—",
-        "eng": null,
-        "eng-freq": null,
-        "esp": null,
-        "esp-freq": null,
-        "aligned": true
-      },
-      {
-        "or": "на",
-        "eng": null,
-        "eng-freq": null,
-        "esp": null,
-        "esp-freq": null,
-        "aligned": true
-      },
-      {
-        "or": "нем",
-        "eng": null,
-        "eng-freq": null,
-        "esp": null,
-        "esp-freq": null,
-        "aligned": true
-      },
-      {
-        "or": "кровь",
-        "eng": "blood",
-        "eng-freq": 507,
-        "esp": "la sangre",
-        "esp-freq": 643,
-        "aligned": true
-      },
-      {
-        "or": "будет",
-        "eng": null,
-        "eng-freq": null,
-        "esp": null,
-        "esp-freq": null,
-        "aligned": true
-      },
-      {
-        "or": "не",
-        "eng": null,
-        "eng-freq": null,
-        "esp": "no",
-        "esp-freq": 15,
-        "aligned": true
-      },
-      {
-        "or": "так",
-        "eng": null,
-        "eng-freq": null,
-        "esp": null,
-        "esp-freq": null,
-        "aligned": true
-      },
-      {
-        "or": "заметна",
-        "eng": null,
-        "eng-freq": null,
-        "esp": "se notara",
-        "esp-freq": 5000,
-        "aligned": true
-      },
-      {
-        "or": ".",
-        "eng": null,
-        "eng-freq": null,
-        "esp": null,
-        "esp-freq": null,
-        "aligned": true
-      }
-    ]
+  {
+    "or": "Она",
+    "en": "She",
+    "enFreq": 32,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "медленно",
+    "en": "slowly",
+    "enFreq": 861,
+    "es": "lentamente",
+    "esFreq": 2500,
+    "aligned": true
+  },
+  {
+    "or": ",",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "как во сне",
+    "en": "dreamily",
+    "enFreq": 10000,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": ",",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "разделась",
+    "en": "undressed",
+    "enFreq": 12233,
+    "es": "se desvistió",
+    "esFreq": 47000,
+    "aligned": true
+  },
+  {
+    "or": ",",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "обнаженная",
+    "en": "naked",
+    "enFreq": 2918,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": ",",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "выбрала",
+    "en": "selected",
+    "enFreq": 4994,
+    "es": "eligió",
+    "esFreq": 2443,
+    "aligned": true
+  },
+  {
+    "or": "ярко-красное",
+    "en": "bright red",
+    "enFreq": 571,
+    "es": "rojo intenso",
+    "esFreq": 1500,
+    "aligned": true
+  },
+  {
+    "or": "белье",
+    "en": "negligee",
+    "enFreq": 23287,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "—",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "на",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "нем",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "кровь",
+    "en": "blood",
+    "enFreq": 507,
+    "es": "la sangre",
+    "esFreq": 643,
+    "aligned": true
+  },
+  {
+    "or": "будет",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "не",
+    "en": "",
+    "enFreq": 0,
+    "es": "no",
+    "esFreq": 15,
+    "aligned": true
+  },
+  {
+    "or": "так",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "заметна",
+    "en": "",
+    "enFreq": 0,
+    "es": "se notara",
+    "esFreq": 5000,
+    "aligned": true
+  },
+  {
+    "or": ".",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  }
+]
   ],
   "title": "Если завтра наступит",
   "author": "Шелдон Сидни"
