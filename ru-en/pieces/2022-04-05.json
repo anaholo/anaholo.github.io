@@ -1,0 +1,178 @@
+{
+  "date": "2022-03-17",
+  "lang": "ru-en",
+  "text": [
+    [
+  {
+    "or": "Она",
+    "en": "She",
+    "enFreq": 32,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "медленно",
+    "en": "slowly",
+    "enFreq": 861,
+    "es": "lentamente",
+    "esFreq": 2500,
+    "aligned": true
+  },
+  {
+    "or": ",",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "как во сне",
+    "en": "dreamily",
+    "enFreq": 10000,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": ",",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "разделась",
+    "en": "undressed",
+    "enFreq": 12233,
+    "es": "se desvistió",
+    "esFreq": 47000,
+    "aligned": true
+  },
+  {
+    "or": ",",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "обнаженная",
+    "en": "naked",
+    "enFreq": 2918,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": ",",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "выбрала",
+    "en": "selected",
+    "enFreq": 4994,
+    "es": "eligió",
+    "esFreq": 2443,
+    "aligned": true
+  },
+  {
+    "or": "ярко-красное",
+    "en": "bright red",
+    "enFreq": 571,
+    "es": "rojo intenso",
+    "esFreq": 1500,
+    "aligned": true
+  },
+  {
+    "or": "белье",
+    "en": "negligee",
+    "enFreq": 23287,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "—",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "на",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "нем",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "кровь",
+    "en": "blood",
+    "enFreq": 507,
+    "es": "la sangre",
+    "esFreq": 643,
+    "aligned": true
+  },
+  {
+    "or": "будет",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "не",
+    "en": "",
+    "enFreq": 0,
+    "es": "no",
+    "esFreq": 15,
+    "aligned": true
+  },
+  {
+    "or": "так",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  },
+  {
+    "or": "заметна",
+    "en": "",
+    "enFreq": 0,
+    "es": "se notara",
+    "esFreq": 5000,
+    "aligned": true
+  },
+  {
+    "or": ".",
+    "en": "",
+    "enFreq": 0,
+    "es": "",
+    "esFreq": 0,
+    "aligned": true
+  }
+]
+  ],
+  "title": "Если завтра наступит",
+  "author": "Шелдон Сидни"
+}
