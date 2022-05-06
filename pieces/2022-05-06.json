@@ -85,7 +85,7 @@
           "freq": 0
         },
         {
-          "or": "newLine",
+          "or": "nl",
           "tr": "",
           "freq": 0
         },
