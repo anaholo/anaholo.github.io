@@ -16,9 +16,11 @@
         "paragraphs": [
           {
             "idP": 1,
+            "additional": "",
             "sentences": [
               {
                 "idS": 1,
+                "additional": "",
                 "words": [
                   {
                     "or": "Она",
@@ -106,9 +108,11 @@
           },
           {
             "idP": 2,
+            "additional": "",
             "sentences": [
               {
                 "idS": 2,
+                "additional": "",
                 "words": [
                   {
                     "or": "Она",
@@ -201,12 +205,15 @@
         "parentId": 1,
         "type": "h2",
         "title": "Глава II. Вниз по кроличьей норе",
+        "additional": "",
         "paragraphs": [
           {
             "idP": 3,
+            "additional": "",
             "sentences": [
               {
                 "idS": 3,
+                "additional": "",
                 "words": [
                   {
                     "or": "Она",
