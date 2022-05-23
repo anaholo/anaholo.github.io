@@ -1,524 +1,890 @@
-{
-  "date": "2022-03-17",
-  "piece": [
-    {
-      "lang": "ru-en",
-      "text": [
-        {
-          "or": "Она",
-          "tr": "She",
-          "freq": 32
-        },
-        {
-          "or": "медленно,",
-          "tr": "slowly,",
-          "freq": 861
-        },
-        {
-          "or": "как в самом мечтательном сне,",
-          "tr": "dreamily,",
-          "freq": 10000
-        },
-        {
-          "or": "разделась,",
-          "tr": "undressed,",
-          "freq": 12233
-        },
-        {
-          "or": "обнаженная,",
-          "tr": "naked,",
-          "freq": 2918
-        },
-        {
-          "or": "выбрала",
-          "tr": "selected",
-          "freq": 4994
-        },
-        {
-          "or": "ярко-красное",
-          "tr": "bright red",
-          "freq": 571
-        },
-        {
-          "or": "белье",
-          "tr": "negligee",
-          "freq": 23287
-        },
-        {
-          "or": "—",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "на",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "нем",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "кровь",
-          "tr": "blood",
-          "freq": 507
-        },
-        {
-          "or": "будет",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "не",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "так",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "заметна.",
-          "tr": "noticed.",
-          "freq": 0
-        },
-        {
-          "or": "nl",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "Она",
-          "tr": "She",
-          "freq": 32
-        },
-        {
-          "or": "медленно,",
-          "tr": "slowly,",
-          "freq": 861
-        },
-        {
-          "or": "как в самом мечтательном сне,",
-          "tr": "dreamily,",
-          "freq": 10000
-        },
-        {
-          "or": "разделась,",
-          "tr": "undressed,",
-          "freq": 12233
-        },
-        {
-          "or": "обнаженная,",
-          "tr": "naked,",
-          "freq": 2918
-        },
-        {
-          "or": "выбрала",
-          "tr": "selected",
-          "freq": 4994
-        },
-        {
-          "or": "ярко-красное",
-          "tr": "bright red",
-          "freq": 571
-        },
-        {
-          "or": "белье",
-          "tr": "negligee",
-          "freq": 23287
-        },
-        {
-          "or": "—",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "на",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "нем",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "кровь",
-          "tr": "blood",
-          "freq": 507
-        },
-        {
-          "or": "будет",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "не",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "так",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "заметна.",
-          "tr": "noticed.",
-          "freq": 0
-        },
-        {
-          "or": "nch",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "Глава I. Вниз по кроличьей норе",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "nch",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "Она",
-          "tr": "She",
-          "freq": 32
-        },
-        {
-          "or": "медленно,",
-          "tr": "slowly,",
-          "freq": 861
-        },
-        {
-          "or": "как в самом мечтательном сне,",
-          "tr": "dreamily,",
-          "freq": 10000
-        },
-        {
-          "or": "разделась,",
-          "tr": "undressed,",
-          "freq": 12233
-        },
-        {
-          "or": "обнаженная,",
-          "tr": "naked,",
-          "freq": 2918
-        },
-        {
-          "or": "выбрала",
-          "tr": "selected",
-          "freq": 4994
-        },
-        {
-          "or": "ярко-красное",
-          "tr": "bright red",
-          "freq": 571
-        },
-        {
-          "or": "белье",
-          "tr": "negligee",
-          "freq": 23287
-        },
-        {
-          "or": "—",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "на",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "нем",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "кровь",
-          "tr": "blood",
-          "freq": 507
-        },
-        {
-          "or": "будет",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "не",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "так",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "заметна.",
-          "tr": "noticed.",
-          "freq": 0
-        },
-        {
-          "or": "nl",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "Она",
-          "tr": "She",
-          "freq": 32
-        },
-        {
-          "or": "медленно,",
-          "tr": "slowly,",
-          "freq": 861
-        },
-        {
-          "or": "как в самом мечтательном сне,",
-          "tr": "dreamily,",
-          "freq": 10000
-        },
-        {
-          "or": "разделась,",
-          "tr": "undressed,",
-          "freq": 12233
-        },
-        {
-          "or": "обнаженная,",
-          "tr": "naked,",
-          "freq": 2918
-        },
-        {
-          "or": "выбрала",
-          "tr": "selected",
-          "freq": 4994
-        },
-        {
-          "or": "ярко-красное",
-          "tr": "bright red",
-          "freq": 571
-        },
-        {
-          "or": "белье",
-          "tr": "negligee",
-          "freq": 23287
-        },
-        {
-          "or": "—",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "на",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "нем",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "кровь",
-          "tr": "blood",
-          "freq": 507
-        },
-        {
-          "or": "будет",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "не",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "так",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "заметна.",
-          "tr": "noticed.",
-          "freq": 0
-        },
-                {
-          "or": "Она",
-          "tr": "She",
-          "freq": 32
-        },
-        {
-          "or": "медленно,",
-          "tr": "slowly,",
-          "freq": 861
-        },
-        {
-          "or": "как в самом мечтательном сне,",
-          "tr": "dreamily,",
-          "freq": 10000
-        },
-        {
-          "or": "разделась,",
-          "tr": "undressed,",
-          "freq": 12233
-        },
-        {
-          "or": "обнаженная,",
-          "tr": "naked,",
-          "freq": 2918
-        },
-        {
-          "or": "выбрала",
-          "tr": "selected",
-          "freq": 4994
-        },
-        {
-          "or": "ярко-красное",
-          "tr": "bright red",
-          "freq": 571
-        },
-        {
-          "or": "белье",
-          "tr": "negligee",
-          "freq": 23287
-        },
-        {
-          "or": "—",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "на",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "нем",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "кровь",
-          "tr": "blood",
-          "freq": 507
-        },
-        {
-          "or": "будет",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "не",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "так",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "заметна.",
-          "tr": "noticed.",
-          "freq": 0
-        }
-      ],
-      "title": "\"Если завтра наступит\"",
-      "author": "Шелдон Сидни"
-    },
-    {
-      "lang": "ru-es",
-      "text": [
-        {
-          "or": "Она",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "медленно,",
-          "tr": "lentamente,",
-          "freq": 2500
-        },
-        {
-          "or": "как в самом мечтательном сне,",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "разделась,",
-          "tr": "se desvistió,",
-          "freq": 47000
-        },
-        {
-          "or": "обнаженная,",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "выбрала",
-          "tr": "eligió",
-          "freq": 2443
-        },
-        {
-          "or": "ярко-красное",
-          "tr": "rojo intenso",
-          "freq": 1500
-        },
-        {
-          "or": "белье",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "—",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "на",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "нем",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "кровь",
-          "tr": "la sangre",
-          "freq": 643
-        },
-        {
-          "or": "будет",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "не",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "так",
-          "tr": "",
-          "freq": 0
-        },
-        {
-          "or": "заметна.",
-          "tr": "",
-          "freq": 0
-        }
-      ],
-      "title": "\"Если завтра не наступит\"",
-      "author": "Шелдон Свини"
-    }
-  ]
-}
+[
+  {
+    "orLang": "ru",
+    "trLang": "en",
+    "title": "\"Если завтра наступит\"",
+    "author": "Шелдон Сидни",
+    "imagePath": "cover1",
+    "additional": "",
+    "text": [
+      {
+        "type": "paragraph",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "nl"
+      },
+      {
+        "type": "chapter",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "Глава I. Вниз по кроличьей норе"
+      },
+      {
+        "type": "paragraph",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "nl"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "Она",
+        "tr": "She",
+        "freq": 32
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "медленно,",
+        "tr": "slowly,",
+        "freq": 861
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "как в самом мечтательном сне,",
+        "tr": "dreamily,",
+        "freq": 10000
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "разделась,",
+        "tr": "undressed,",
+        "freq": 12233
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "обнаженная,",
+        "tr": "naked,",
+        "freq": 2918
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "выбрала",
+        "tr": "selected",
+        "freq": 4994
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "ярко-красное",
+        "tr": "bright red",
+        "freq": 571
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "белье",
+        "tr": "negligee",
+        "freq": 23287
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "—"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "на"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "нем"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "кровь",
+        "tr": "blood",
+        "freq": 507
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "будет"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "не"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "так"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "заметна.",
+        "tr": "noticed.",
+        "freq": 2000
+      },
+      {
+        "type": "paragraph",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "nl"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "Она",
+        "tr": "She",
+        "freq": 32
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "медленно,",
+        "tr": "slowly,",
+        "freq": 861
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "как в самом мечтательном сне,",
+        "tr": "dreamily,",
+        "freq": 10000
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "разделась,",
+        "tr": "undressed,",
+        "freq": 12233
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "обнаженная,",
+        "tr": "naked,",
+        "freq": 2918
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "выбрала",
+        "tr": "selected",
+        "freq": 4994
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "ярко-красное",
+        "tr": "bright red",
+        "freq": 571
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "белье",
+        "tr": "negligee",
+        "freq": 23287
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "—"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "на"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "нем"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "кровь",
+        "tr": "blood",
+        "freq": 507
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "будет"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "не"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "так"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "заметна.",
+        "tr": "noticed.",
+        "freq": 2000
+      },
+      
+      {
+        "type": "paragraph",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "nl"
+      },
+      {
+        "type": "chapter",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "Глава I. Вниз по кроличьей норе"
+      },
+      {
+        "type": "paragraph",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "nl"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "Она",
+        "tr": "She",
+        "freq": 32
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "медленно,",
+        "tr": "slowly,",
+        "freq": 861
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "как в самом мечтательном сне,",
+        "tr": "dreamily,",
+        "freq": 10000
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "разделась,",
+        "tr": "undressed,",
+        "freq": 12233
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "обнаженная,",
+        "tr": "naked,",
+        "freq": 2918
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "выбрала",
+        "tr": "selected",
+        "freq": 4994
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "ярко-красное",
+        "tr": "bright red",
+        "freq": 571
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "белье",
+        "tr": "negligee",
+        "freq": 23287
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "—"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "на"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "нем"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "кровь",
+        "tr": "blood",
+        "freq": 507
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "будет"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "не"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "так"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "заметна.",
+        "tr": "noticed.",
+        "freq": 2000
+      },
+      {
+        "type": "paragraph",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "nl"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "Она",
+        "tr": "She",
+        "freq": 32
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "медленно,",
+        "tr": "slowly,",
+        "freq": 861
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "как в самом мечтательном сне,",
+        "tr": "dreamily,",
+        "freq": 10000
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "разделась,",
+        "tr": "undressed,",
+        "freq": 12233
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "обнаженная,",
+        "tr": "naked,",
+        "freq": 2918
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "выбрала",
+        "tr": "selected",
+        "freq": 4994
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "ярко-красное",
+        "tr": "bright red",
+        "freq": 571
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "белье",
+        "tr": "negligee",
+        "freq": 23287
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "—"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "на"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "нем"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "кровь",
+        "tr": "blood",
+        "freq": 507
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "будет"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "не"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "так"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "заметна.",
+        "tr": "noticed.",
+        "freq": 2000
+      },
+      
+      {
+        "type": "paragraph",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "nl"
+      },
+      {
+        "type": "chapter",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "Глава I. Вниз по кроличьей норе"
+      },
+      {
+        "type": "paragraph",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "nl"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "Она",
+        "tr": "She",
+        "freq": 32
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "медленно,",
+        "tr": "slowly,",
+        "freq": 861
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "как в самом мечтательном сне,",
+        "tr": "dreamily,",
+        "freq": 10000
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "разделась,",
+        "tr": "undressed,",
+        "freq": 12233
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "обнаженная,",
+        "tr": "naked,",
+        "freq": 2918
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "выбрала",
+        "tr": "selected",
+        "freq": 4994
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "ярко-красное",
+        "tr": "bright red",
+        "freq": 571
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "белье",
+        "tr": "negligee",
+        "freq": 23287
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "—"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "на"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "нем"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "кровь",
+        "tr": "blood",
+        "freq": 507
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "будет"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "не"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "так"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 1,
+        "sentence": 1,
+        "or": "заметна.",
+        "tr": "noticed.",
+        "freq": 2000
+      },
+      {
+        "type": "paragraph",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "nl"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "Она",
+        "tr": "She",
+        "freq": 32
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "медленно,",
+        "tr": "slowly,",
+        "freq": 861
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "как в самом мечтательном сне,",
+        "tr": "dreamily,",
+        "freq": 10000
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "разделась,",
+        "tr": "undressed,",
+        "freq": 12233
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "обнаженная,",
+        "tr": "naked,",
+        "freq": 2918
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "выбрала",
+        "tr": "selected",
+        "freq": 4994
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "ярко-красное",
+        "tr": "bright red",
+        "freq": 571
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "белье",
+        "tr": "negligee",
+        "freq": 23287
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "—"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "на"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "нем"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "кровь",
+        "tr": "blood",
+        "freq": 507
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "будет"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "не"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "так"
+      },
+      {
+        "type": "word",
+        "chapter": 1,
+        "paragraph": 2,
+        "sentence": 2,
+        "or": "заметна.",
+        "tr": "noticed.",
+        "freq": 2000
+      }
+    ]
+  }
+]
