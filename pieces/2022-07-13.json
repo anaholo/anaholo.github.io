@@ -282,5 +282,56 @@
         "or": "помітна."
       }
     ]
+  },
+  {
+    "date": "2022-03-17",
+    "lang": "en-es",
+    "title": "\"If tomorrow comes\"",
+    "author": "Sheldon Sydney",
+    "text": [
+      {
+        "or": "She"
+      },
+      {
+        "or": "slowly,",
+        "tr": "lentamente,",
+        "freq": 2500
+      },
+      {
+        "or": "dreamily"
+      },
+      {
+        "or": "undressed,",
+        "tr": "se desvistió,",
+        "freq": 47000
+      },
+      {
+        "or": "naked,"
+      },
+      {
+        "or": "selected",
+        "tr": "eligió",
+        "freq": 2443
+      },
+      {
+        "or": "bright red",
+        "tr": "rojo intenso",
+        "freq": 1500
+      },
+      {
+        "or": "negligee"
+      },
+      {
+        "or": "to wear so that the"
+      },
+      {
+        "or": "blood",
+        "tr": "la sangre",
+        "freq": 643
+      },
+      {
+        "or": " would not show."
+      }
+    ]
   }
 ]
