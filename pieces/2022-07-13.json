@@ -330,7 +330,10 @@
         "freq": 643
       },
       {
-        "or": " would not show."
+        "or": " would not"
+      },
+      {
+        "or": "show."
       }
     ]
   }
